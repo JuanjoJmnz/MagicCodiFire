@@ -73,8 +73,9 @@ Un script en <strong>Bash</strong> que permite encriptar y desencriptar texto in
 <p><strong>Juan José Jiménez Gil</strong><br>
 Desarrollado como herramienta de aprendizaje para practicar scripting en Bash y conceptos básicos de criptografía.</p>
 
-
+<br><br>
 <hr><hr>
+<br><br>
 
 # 🇬🇧 English Version
 
